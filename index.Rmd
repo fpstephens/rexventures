@@ -1,0 +1,36 @@
+--- 
+title: "RexVentures"
+author: "Felix Stephens"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Stories about Rex in a Minecraft World."
+favicon: "img/rex-favicon.ico"
+github-repo: "fpstephens/rexventures"
+---
+
+
+# Preface {-}
+
+This book is about Rex.
+
+# About the Author {-}
+
+Felix Stephens is...
+
+# Acknowledgements {-}
+
+Thanks to Dad for helping me publish *RexVentures* online.
+
+# And so it begins
+
+We begin...
+
+# And so it ends
+
+The end!
+
